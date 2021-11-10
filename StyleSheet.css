@@ -1,0 +1,23 @@
+h1 {
+    text-align: center; color: darkblue;
+}
+section {
+    text-align: center;
+}
+#Phone {background-color: black; color: yellow;
+}
+#Email {
+    background-color: coral; color: blue;
+}
+#Instagram {
+    background-color: brown; color: red;
+}
+body {
+    background-color: rgb(233, 10, 140);
+}
+.ProfilePic {
+    text-align: center;
+}
+ul {
+    font-size: 30px; font-family: 'Courier New', Courier, monospace;
+}
