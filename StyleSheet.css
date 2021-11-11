@@ -5,7 +5,7 @@ h1 {
     text-align: center; color: darkblue;
 }
 section {
-    text-align: center;
+    text-align: center; position: relative;
 }
 #Phone {background-color: black; color: yellow;
 }
