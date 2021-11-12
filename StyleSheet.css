@@ -15,6 +15,12 @@ section {
 #Instagram {
     background-color: brown; color: red;
 }
+#Github {
+    background-color: rgba(8, 8, 214, 0.829); color: rgb(47, 204, 47);
+}
+#Portfolio {
+    background-color: black; color: yellow;
+}
 body {
     background-color: rgb(233, 10, 140);
 }
@@ -32,4 +38,7 @@ p {
 }
 h2 {
     text-align: center; color: rgb(240, 255, 254);
+}
+h1 {
+    position: relative;
 }
